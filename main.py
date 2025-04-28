@@ -17,7 +17,7 @@ def _():
     mo.md(f"""
         # UTS SDL Rijalul Fikri [2024171004]
 
-        Source Code bisa dilihat di 
+        Source Code bisa dilihat di https://github.com/asahfikir/UTS-SDL
     """)
     return mo, pd, plt, sns
 
